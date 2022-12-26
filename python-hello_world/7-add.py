@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 a=eval(input(" "))
 b=eval(input(" "))
 def add(a,b):

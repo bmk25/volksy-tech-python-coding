@@ -9,7 +9,8 @@ elif number > 0:
     if n2 > 5:
         print("Last digit of", number, "is", n2, "and is greater than 5")
     else:
-        print("Last digit of"
+        print(
+               "Last digit of"
 	       +  number 
 	       + "is" 
                + n2

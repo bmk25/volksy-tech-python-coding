@@ -12,7 +12,7 @@ elif number > 0:
         print(
              "Last digit on",
              number,
-             "is", 
+             "is",
              n2,
              "and is less than 6 and not 0")
 else:

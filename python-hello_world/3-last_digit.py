@@ -10,7 +10,7 @@ elif number > 0:
         print("Last digit of", number, "is", n2, "and is greater than 5")
     else:
         print(
-             "Last digit on"
+             "Last digit on",
              number,
              "is", 
              n2,
